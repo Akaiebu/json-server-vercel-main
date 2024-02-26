@@ -1,0 +1,50 @@
+{
+  "headlinks" : [
+      { "id":1, "to":"/", "title":"Əsas səhifə" },
+      { "id":2, "to":"/haqqimizda", "title":"Haqqımızda" },
+      { "id":3, "to":"/texnikalar", "title":"Texnikalar" },
+      { "id":4, "to":"/icare-sertleri", "title":"İcarə şərtləri" },
+      { "id":5, "to":"/blog", "title":"Blog" },
+      { "id":6, "to":"/elaqe", "title":"Əlaqə" }
+  ],
+  "links" : [
+    { "id":1, "to":"/haqqimizda", "title":"Haqqımızda" },
+    { "id":2, "to":"/texnikalar", "title":"Texnikalar" },
+    { "id":3, "to":"/icare-sertleri", "title":"İcarə şərtləri" },
+    { "id":4, "to":"/blog", "title":"Blog" },
+    { "id":5, "to":"/elaqe", "title":"Əlaqə" }
+  ],
+  "kateqoriyalar" : [
+      { "id":1 , "to": "/" , "title": "Avtokranlar" , "source": "/avtokran.png" },
+      { "id":2 , "to": "/" , "title": "Traktorlar" , "source": "/traktor.png" },
+      { "id":3 , "to": "/" , "title": "Qaldırıcı səbətlər" , "source": "/qaldirici-sebet.png" },
+      { "id":4 , "to": "/" , "title": "Forkliftlər" , "source": "/forklift.png" },
+      { "id":5 , "to": "/" , "title": "Katok" , "source": "/katok.png" },
+      { "id":6 , "to": "/" , "title": "Shacman" , "source": "/shacman.png" },
+      { "id":7 , "to": "/" , "title": "Bobcat" , "source": "/bobcat.png" },
+      { "id":8 , "to": "/" , "title": "Pompa" , "source": "/pompa.png" }
+    ],
+    "icare" : [
+      { "id":1 , "title": "Ekskavator" , "il": 2022 , "qiymet_ay": 1000 , "qiymet_gun": 100 ,"mezenne": "AZN" , "source": "/ekskavator.png" },
+      { "id":2 , "title": "Ekskavator yükləyici" , "il": 2022 , "qiymet_ay": 1000 , "qiymet_gun": 100 ,"mezenne": "AZN" , "source": "/ekskavator-yukleyici.png" },
+      { "id":3 , "title": "Avtokran" , "il": 2022 , "qiymet_ay": 1000 , "qiymet_gun": 100 ,"mezenne": "AZN" , "source": "/avtokran.png" },
+      { "id":4 , "title": "Forkliftlər" , "il": 2022 , "qiymet_ay": 1000 , "qiymet_gun": 100 ,"mezenne": "AZN" , "source": "/forklift-v2.png" }
+    ],
+    "yenilik" : [
+      { "id":1 , "basliq": "Lorem Ipsum is simply dummy" , "info": "Lorem Ipsum is simply dummy text of the printing and typesetting industry..." , "tarix": "01.04.2022", "source": "/texnika-1.png" },
+      { "id":2 , "basliq": "Lorem Ipsum has been the industry's standard dummy text ever since" , "info": "Lorem Ipsum is simply dummy text of the printing and typesetting industry..." , "tarix": "01.04.2022", "source": "/texnika-2.png" },
+      { "id":3 , "basliq": "Lorem Ipsum is simply dummy" , "info": "Lorem Ipsum is simply dummy text of the printing and typesetting industry..." , "tarix": "01.04.2022", "source": "/texnika-3.png" },
+      { "id":4 , "basliq": "Lorem Ipsum is simply dummy" , "info": "Lorem Ipsum is simply dummy text of the printing and typesetting industry..." , "tarix": "01.04.2022", "source": "/texnika-4.png" }
+    ],
+    "social_media" : [
+      { "id":1 , "to":"https://www.instagram.com/" , "icon": "<FaInstagram/>" },
+      { "id":2 , "to":"https://www.facebook.com/" , "icon": "<FaFacebookF/>" },
+      { "id":3 , "to":"https://twitter.com/?lang=en" , "icon": "<FaTwitter/>" }
+    ],
+    "adress" :  [
+      { "id":1 , "to":"https://maps.app.goo.gl/Qq9J46PcLzBzpVfM8" , "title":"Fətəli Xan Xoyski 111A, Bakı Azərbaycan" },
+      { "id":1 , "to":"/" , "title":"+994(51) 123 45 67" },
+      { "id":1 , "to":"/" , "title":"+994(12) 123 45 67" },
+      { "id":1 , "to":"/" , "title":"info@lmegatexnika.az" }
+    ]
+}
